@@ -3,7 +3,7 @@
 Kode pendamping modul pelatihan. Setiap folder sesuai dengan bab di modul PDF.
 
 ## Daftar Isi
-- [Pengenalan Mikrokontroler](Modul-Microcontroller/bab-pengenalan-mikrokontroler/)
+- [Pengenalan Mikrokontroler](bab-pengenalan-microcontroller/)
 - [RTOS](Modul-Microcontroller/bab-rtos/)
 
 ## Perangkat
