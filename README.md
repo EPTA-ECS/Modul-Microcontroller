@@ -3,8 +3,8 @@
 Kode pendamping modul pelatihan. Setiap folder sesuai dengan bab di modul PDF.
 
 ## Daftar Isi
-- [Pengenalan Mikrokontroler](bab-pengenalan-mikrokontroler/)
-- [RTOS](bab-rtos/)
+- [Pengenalan Mikrokontroler](Modul-Microcontroller/bab-pengenalan-mikrokontroler/)
+- [RTOS](Modul-Microcontroller/bab-rtos/)
 
 ## Perangkat
 - Board: ESP32 TTGO T-Call
